@@ -1,0 +1,14 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "r17x <ri7nz@evilfactory.id>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "packageManager": "yarn@4.4.1",
+  "dependencies": {
+    "ts-pattern": "^5.3.1"
+  }
+}
